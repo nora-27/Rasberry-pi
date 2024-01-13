@@ -1,2 +1,2 @@
 # Rasberry-pi
-activities from infosys springboard
+Activities from infosys springboard
